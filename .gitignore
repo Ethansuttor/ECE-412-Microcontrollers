@@ -1,0 +1,16 @@
+# Microchip Studio / Atmel Studio build output
+Debug/
+Release/
+*.elf
+*.hex
+*.eep
+*.lss
+*.map
+*.srec
+*.o
+*.d
+*.mk
+
+# IDE settings
+.vs/
+*.atsuo
